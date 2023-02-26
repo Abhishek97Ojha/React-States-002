@@ -1,0 +1,2 @@
+const data = "# markdown preview \n# this is header 1 \n## this is header 2 \n### this is header 3 \n\n``` \nthis is some code \n``` \n\n![alt](https://images.hindustantimes.com/img/2023/02/04/1600x900/shah_rukh_khan_asksrk_1675495200645_1675495200817_1675495200817.jpg) \n\n\nThis is some image \n- list 1 \n- list 2 \n- list 3"
+export default data
